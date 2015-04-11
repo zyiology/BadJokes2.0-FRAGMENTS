@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questions">
+        <item>Dad, could you put on my shoes?</item>
+        <item>Did you hear about the restaurant on the moon?</item>
+        <item>Can February March?"</item>
+        <item>Do you get to the Cloud District very often?</item>
+    </string-array>
+    <string-array name="answers">
+        <item>I don\&apos;t think they\&apos;ll fit me.</item>
+        <item>Great food, no atmosphere.</item>
+        <item>No, but April May.</item>
+        <item>Oh, what am I saying - of course you don\&apos;t. ^*^%*\&amp;$^#* NAZEEM YOU $*@$#;</item>
+    </string-array>
+</resources>
